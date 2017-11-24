@@ -1,0 +1,177 @@
+# depslib dependency file v1.0
+1510835017 source:e:\modelo de parcial2\arraylis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1510324829 e:\modelo de parcial2\arraylist.h
+
+1511450162 source:e:\modelo de parcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fun.h"
+	"ArrayList.h"
+	"Principal.h"
+	"parserProducto.h"
+
+1511012088 e:\modelo de parcial2\fun.h
+
+1511450857 source:e:\modelo de parcial2\fun.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"fun.h"
+
+1510516282 source:g:\modelo de parcial2\arraylis.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1510324829 g:\modelo de parcial2\arraylist.h
+
+1511493860 source:g:\modelo de parcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fun.h"
+	"ArrayList.h"
+	"Principal.h"
+	"parserProducto.h"
+
+1511012088 g:\modelo de parcial2\fun.h
+
+1511450857 source:g:\modelo de parcial2\fun.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	"fun.h"
+
+1510523591 g:\modelo de parcial2\newproducto.h
+
+1510523591 source:g:\modelo de parcial2\newproducto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fun.h"
+	"ArrayList.h"
+	"newProducto.h"
+
+1510843557 source:e:\modelo de parcial2\newproducto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fun.h"
+	"ArrayList.h"
+	"newProducto.h"
+
+1510843558 e:\modelo de parcial2\newproducto.h
+
+1511438909 source:e:\modelo de parcial2\principal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"fun.h"
+	"ArrayList.h"
+	"Producto.h"
+
+1511446179 source:e:\modelo de parcial2\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fun.h"
+	"ArrayList.h"
+	"Producto.h"
+
+1511444240 e:\modelo de parcial2\producto.h
+	"ArrayList.h"
+
+1511451230 e:\modelo de parcial2\principal.h
+	"ArrayList.h"
+
+1511444241 source:e:\modelo de parcial2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1511444241 source:g:\modelo de parcial2\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1511451230 g:\modelo de parcial2\principal.h
+	"ArrayList.h"
+
+1511493769 source:g:\modelo de parcial2\parserproducto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"fun.h"
+	"ArrayList.h"
+	"Producto.h"
+
+1511493769 source:g:\modelo de parcial2\principal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"fun.h"
+	"ArrayList.h"
+	"Producto.h"
+
+1511491752 g:\modelo de parcial2\producto.h
+	"ArrayList.h"
+
+1511491752 source:g:\modelo de parcial2\producto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fun.h"
+	"ArrayList.h"
+	"Producto.h"
+
+1511450683 source:e:\modelo de parcial2\parserproducto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"fun.h"
+	"ArrayList.h"
+	"Producto.h"
+
+1511438909 e:\modelo de parcial2\parserproducto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"fun.h"
+	"ArrayList.h"
+	"Producto.h"
+
+1511438909 g:\modelo de parcial2\parserproducto.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"fun.h"
+	"ArrayList.h"
+	"Producto.h"
+
